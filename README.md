@@ -64,7 +64,7 @@ Tu sitio estará disponible en: `https://realyuvi.github.io/mi-pagina-web/`
 
 ## ⚖️ Licencia
 
-© 2026 Realyuvi. **Todos los derechos reservados.**
+© 2026 yuv little. **Todos los derechos reservados.**
 
 ❌ **Prohibido:**
 - Reproducir, distribuir o usar sin autorización explícita
